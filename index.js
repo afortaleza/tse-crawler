@@ -12,3 +12,7 @@ function confirma() {
 	if (confirm('Ok?'))
 		return true;
 }
+
+function integracao() {
+	console.log('Executando testes de integracao...');
+}
