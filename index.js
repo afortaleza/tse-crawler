@@ -12,3 +12,7 @@ function confirma() {
 	if (confirm('Ok?'))
 		return true;
 }
+
+function testa() {
+	console.log('Executando teste untario...')
+}
