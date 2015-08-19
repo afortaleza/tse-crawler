@@ -16,3 +16,7 @@ function confirma() {
 function testa() {
 	console.log('Executando teste untario...')
 }
+
+function integracao() {
+	console.log('Executando testes de integracao...');
+}
