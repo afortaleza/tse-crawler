@@ -2,3 +2,8 @@
 function alerta() {
 	alert('Ok');
 }
+
+function confirma() {
+	if (confirm('Ok?'))
+		return true;
+}
